@@ -1,0 +1,1 @@
+scalac -bootclasspath /home/prashant/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.3/scala-library-2.10.3.jar -classpath /home/prashant/test/target/scala-2.10/classes /home/prashant/test/src/main/scala/com/whiteboardcoder/hello/hw.scala
